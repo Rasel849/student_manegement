@@ -1,1 +1,10 @@
 # student_manegement
+![image](https://user-images.githubusercontent.com/76987135/187080013-f3bcffd1-ede7-4dae-82aa-fdfe8bbc8531.png)
+![image](https://user-images.githubusercontent.com/76987135/187080024-8e32e6e4-0a23-4655-b546-22a260032444.png)
+![image](https://user-images.githubusercontent.com/76987135/187080055-c66a9059-5db0-4827-b316-dc7d6b3cd66c.png)
+![image](https://user-images.githubusercontent.com/76987135/187080083-dcd695b2-125a-43f7-b690-9c8ea63500a7.png)
+![image](https://user-images.githubusercontent.com/76987135/187080104-15ac2bff-9045-4160-813f-58d990572676.png)
+![image](https://user-images.githubusercontent.com/76987135/187080130-8daa3b3d-e49c-4d2a-8fbd-45b16cf7ca7a.png)
+![image](https://user-images.githubusercontent.com/76987135/187080167-c74eaa07-a8b2-4ee2-bf5f-df2be9ec56d9.png)
+![image](https://user-images.githubusercontent.com/76987135/187080183-0cc628db-2b56-4b5e-9842-dba3b7014932.png)
+![image](https://user-images.githubusercontent.com/76987135/187080198-e9fa0957-12b2-4e67-a81a-51ba2b48c1c2.png)
